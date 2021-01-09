@@ -1,0 +1,49 @@
+D:\Visual Studio\DoAn6\DoAn6\bin\Debug\DoAn6.exe.config
+D:\Visual Studio\DoAn6\DoAn6\bin\Debug\DoAn6.exe
+D:\Visual Studio\DoAn6\DoAn6\bin\Debug\DoAn6.pdb
+D:\Visual Studio\DoAn6\DoAn6\obj\Debug\DoAn6.csprojAssemblyReference.cache
+D:\Visual Studio\DoAn6\DoAn6\obj\Debug\DoAn6.Form1.resources
+D:\Visual Studio\DoAn6\DoAn6\obj\Debug\DoAn6.Form2.resources
+D:\Visual Studio\DoAn6\DoAn6\obj\Debug\DoAn6.Properties.Resources.resources
+D:\Visual Studio\DoAn6\DoAn6\obj\Debug\DoAn6.csproj.GenerateResource.cache
+D:\Visual Studio\DoAn6\DoAn6\obj\Debug\DoAn6.csproj.CoreCompileInputs.cache
+D:\Visual Studio\DoAn6\DoAn6\obj\Debug\DoAn6.exe
+D:\Visual Studio\DoAn6\DoAn6\obj\Debug\DoAn6.pdb
+D:\Visual Studio\DoAn6\DoAn6\obj\Debug\DoAn6.QuanLy.resources
+C:\Users\CaoTu\Documents\GitHub\projectDotNet\DoAn6\DoAn6\bin\Debug\DoAn6.exe.config
+C:\Users\CaoTu\Documents\GitHub\projectDotNet\DoAn6\DoAn6\bin\Debug\DoAn6.exe
+C:\Users\CaoTu\Documents\GitHub\projectDotNet\DoAn6\DoAn6\bin\Debug\DoAn6.pdb
+C:\Users\CaoTu\Documents\GitHub\projectDotNet\DoAn6\DoAn6\obj\Debug\DoAn6.csprojAssemblyReference.cache
+C:\Users\CaoTu\Documents\GitHub\projectDotNet\DoAn6\DoAn6\obj\Debug\DoAn6.Form1.resources
+C:\Users\CaoTu\Documents\GitHub\projectDotNet\DoAn6\DoAn6\obj\Debug\DoAn6.Form2.resources
+C:\Users\CaoTu\Documents\GitHub\projectDotNet\DoAn6\DoAn6\obj\Debug\DoAn6.Properties.Resources.resources
+C:\Users\CaoTu\Documents\GitHub\projectDotNet\DoAn6\DoAn6\obj\Debug\DoAn6.QuanLy.resources
+C:\Users\CaoTu\Documents\GitHub\projectDotNet\DoAn6\DoAn6\obj\Debug\DoAn6.csproj.GenerateResource.cache
+C:\Users\CaoTu\Documents\GitHub\projectDotNet\DoAn6\DoAn6\obj\Debug\DoAn6.csproj.CoreCompileInputs.cache
+C:\Users\CaoTu\Documents\GitHub\projectDotNet\DoAn6\DoAn6\obj\Debug\DoAn6.exe
+C:\Users\CaoTu\Documents\GitHub\projectDotNet\DoAn6\DoAn6\obj\Debug\DoAn6.pdb
+C:\Users\CaoTu\Downloads\net\DoAn6\DoAn6\bin\Debug\DoAn6.exe.config
+C:\Users\CaoTu\Downloads\net\DoAn6\DoAn6\bin\Debug\DoAn6.exe
+C:\Users\CaoTu\Downloads\net\DoAn6\DoAn6\bin\Debug\DoAn6.pdb
+C:\Users\CaoTu\Downloads\net\DoAn6\DoAn6\obj\Debug\DoAn6.csprojAssemblyReference.cache
+C:\Users\CaoTu\Downloads\net\DoAn6\DoAn6\obj\Debug\DoAn6.Form1.resources
+C:\Users\CaoTu\Downloads\net\DoAn6\DoAn6\obj\Debug\DoAn6.Form2.resources
+C:\Users\CaoTu\Downloads\net\DoAn6\DoAn6\obj\Debug\DoAn6.Properties.Resources.resources
+C:\Users\CaoTu\Downloads\net\DoAn6\DoAn6\obj\Debug\DoAn6.QuanLy.resources
+C:\Users\CaoTu\Downloads\net\DoAn6\DoAn6\obj\Debug\DoAn6.csproj.GenerateResource.cache
+C:\Users\CaoTu\Downloads\net\DoAn6\DoAn6\obj\Debug\DoAn6.csproj.CoreCompileInputs.cache
+C:\Users\CaoTu\Downloads\net\DoAn6\DoAn6\obj\Debug\DoAn6.exe
+C:\Users\CaoTu\Downloads\net\DoAn6\DoAn6\obj\Debug\DoAn6.pdb
+E:\HKII_2020\DotNet\projectFinal\DoAn6\DoAn6\bin\Debug\DoAn6.exe.config
+E:\HKII_2020\DotNet\projectFinal\DoAn6\DoAn6\bin\Debug\DoAn6.exe
+E:\HKII_2020\DotNet\projectFinal\DoAn6\DoAn6\bin\Debug\DoAn6.pdb
+E:\HKII_2020\DotNet\projectFinal\DoAn6\DoAn6\obj\Debug\DoAn6.csprojAssemblyReference.cache
+E:\HKII_2020\DotNet\projectFinal\DoAn6\DoAn6\obj\Debug\DoAn6.Form1.resources
+E:\HKII_2020\DotNet\projectFinal\DoAn6\DoAn6\obj\Debug\DoAn6.Form2.resources
+E:\HKII_2020\DotNet\projectFinal\DoAn6\DoAn6\obj\Debug\DoAn6.Form3.resources
+E:\HKII_2020\DotNet\projectFinal\DoAn6\DoAn6\obj\Debug\DoAn6.Properties.Resources.resources
+E:\HKII_2020\DotNet\projectFinal\DoAn6\DoAn6\obj\Debug\DoAn6.QuanLy.resources
+E:\HKII_2020\DotNet\projectFinal\DoAn6\DoAn6\obj\Debug\DoAn6.csproj.GenerateResource.cache
+E:\HKII_2020\DotNet\projectFinal\DoAn6\DoAn6\obj\Debug\DoAn6.csproj.CoreCompileInputs.cache
+E:\HKII_2020\DotNet\projectFinal\DoAn6\DoAn6\obj\Debug\DoAn6.exe
+E:\HKII_2020\DotNet\projectFinal\DoAn6\DoAn6\obj\Debug\DoAn6.pdb
